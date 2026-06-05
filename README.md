@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Larissa Nichetti
+Não faço Cibersegurança, mas: 
+
+1. Gosto do ar condicionado quentinho na aula, quando está frio!
+2. Gosto de java e POO
+3. Gosto dos colegas, são legais! :D
+
 <!--
 **LGNichetti/LGNichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
